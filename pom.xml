@@ -104,6 +104,7 @@
             <artifactId>javax.mail</artifactId>
             <version>1.5.3</version>
         </dependency>
+
         <!--jedis-->
         <dependency>
             <groupId>redis.clients</groupId>
