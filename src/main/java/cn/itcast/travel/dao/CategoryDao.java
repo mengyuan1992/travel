@@ -8,6 +8,7 @@ public interface CategoryDao {
     /**
      * 查询所有
      * @return
+     *  github上修改进行测试
      */
     public List<Category> findAll();
 }
